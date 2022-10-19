@@ -126,7 +126,7 @@ h2{
     color: white;
 }
 
-@media(max-width:767px){
+@media(max-width:800px){
     .container{
         display: block;
     }
